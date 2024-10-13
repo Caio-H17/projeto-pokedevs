@@ -33,7 +33,7 @@ main {
 
 .cartao-pokedev {
     display: none;
-    max-width: 360px;
+    max-width: 300px;
     
     box-shadow: #00000079 0px 5px 15px;
 }
